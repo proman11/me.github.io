@@ -16,13 +16,17 @@
 "admob_inter":"ca-app-pub-3940256099942544/1033173712",
 "admob_banner":"ca-app-pub-3940256099942544/6300978111",
 "admob_native":"ca-app-pub-3940256099942544/2247696110",
-  "img1":"https://www.learningcontainer.com/wp-content/uploads/2020/08/Large-Sample-png-Image-download-for-Testing.png",
+  
+  "admob_inter2":"ca-app-pub-3940256099942544/1033173712",
+"admob_banner2":"ca-app-pub-3940256099942544/6300978111",
+"admob_native2":"ca-app-pub-3940256099942544/2247696110",
+  
   
 
-
-"banner_network_choice":"applovin", 
-"interstisial_network_choice":"applovin", 
-"native_network_choice":"applovin"
+"ads_account_change_after":"3",
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"native_network_choice":"admob"
  
   
 
