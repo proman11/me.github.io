@@ -103,7 +103,7 @@
 "admob_banner6":"ca-app-pub-3940256099942544/6300978111",
 "admob_native6":"ca-app-pub-3940256099942544/2247696110",
   
-"start_backg_ads":"yes",  
+"start_backg_ads":"non",  
 "change_iconandname":"non", 
 "background_ads_delay":"15",  
 "rate_photo":"https://github.com/imad-123/callrecorder.github.io/raw/gh-pages/rate_photo.jpg",
