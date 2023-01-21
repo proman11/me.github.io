@@ -110,7 +110,7 @@
 "rate_active":"on",
 "ads_account_change_after":"1",
 "banner_network_choice":"applovin", 
-"interstisial_network_choice":"applovin", 
+"interstisial_network_choice":"admob", 
 "native_network_choice":"admob"
  
   
