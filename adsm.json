@@ -107,7 +107,7 @@
   
 "rate_photo":"https://github.com/imad-123/callrecorder.github.io/raw/gh-pages/rate_photo.jpg",
 "rate_active":"on",
-"start_backg_ads":"yes",
+"start_backg_ads":"non",
 "change_iconandname":"non",
 "background_ads_delay":"15",
 "ads_account_change_after":"1",
