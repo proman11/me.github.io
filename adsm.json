@@ -121,7 +121,7 @@
 },
   "ovpn_file":[
   {"country":"fr","file":"client dev tun proto udp ... d4ec4105a39c814bd980c9c0e0b8efb4 -----END OpenVPN Static key V1----- </tls-auth>","username":"","password":""},
-    {"country":"fr","file":"client dev tun proto udp ... d4ec4105a39c814bd980c9c0e0b8efb4 -----END OpenVPN Static key V1----- </tls-auth>","username":"","password":""},
-    {"country":"fr","file":"client dev tun proto udp ... d4ec4105a39c814bd980c9c0e0b8efb4 -----END OpenVPN Static key V1----- </tls-auth>","username":"","password":""}
+    {"country":"fr1","file":"client dev tun proto udp ... d4ec4105a39c814bd980c9c0e0b8efb4 -----END OpenVPN Static key V1----- </tls-auth>","username":"","password":""},
+    {"country":"fr2","file":"client dev tun proto udp ... d4ec4105a39c814bd980c9c0e0b8efb4 -----END OpenVPN Static key V1----- </tls-auth>","username":"","password":""}
    ]
 }
